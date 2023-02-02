@@ -101,3 +101,7 @@
     filter: grayscale(1) blur(2px);
     transition: filter 2s;
 }
+.ex-8-img{
+    filter: sepia(0.5) grayscale(0.5);
+    border-radius: 50px;
+}
