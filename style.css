@@ -86,3 +86,11 @@
     background-color: transparent;
     transition: background-color 2s;
 }
+.ex-5-square:hover{
+    width: 200px;
+    height: 200px;
+}
+.ex-5-square:active{
+    width: 20px;
+    height: 20px;
+}
