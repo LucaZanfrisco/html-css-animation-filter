@@ -128,3 +128,18 @@
         transform: rotate(360deg);
     }
 }
+.ex-11-icon:hover{
+    animation: partial-rotate 3s;
+    animation-timing-function: linear;
+}
+@keyframes partial-rotate{
+    25%{
+        transform: rotate(90deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    75%{
+        transform: rotate(270deg);
+    }
+}
