@@ -67,3 +67,9 @@
     width: 60px;
     height: 20px;
 }
+
+/* Animation */
+.ex-1-square:hover{
+    background-color: red;
+    transition: background-color 2s;
+}
