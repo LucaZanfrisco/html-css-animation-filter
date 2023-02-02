@@ -82,3 +82,7 @@
     border-radius: 50%;
     transition: border-radius 2s;
 }
+.ex-4-square:hover{
+    background-color: transparent;
+    transition: background-color 2s;
+}
