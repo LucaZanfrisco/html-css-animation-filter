@@ -96,5 +96,8 @@
 }
 .ex-6-img:hover{
     filter: grayscale(1);
-    transition: filter 3s;
+}
+.ex-7-img:hover{
+    filter: grayscale(1) blur(2px);
+    transition: filter 2s;
 }
